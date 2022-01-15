@@ -4,6 +4,12 @@ NWlab 新手任務區
 
 目前想到可以寫的內容
 
+## 常用工具
+
+### Makefile
+- [跟我一起寫Makefile](https://seisman.github.io/how-to-write-makefile/)
+
+
 ## 語言
 
 整理一些入門專案就好，語言的內容太多了
@@ -11,11 +17,6 @@ NWlab 新手任務區
 - c
 - golang
 - c++ 14/17
-
-## 常用工具簡單介紹
-
-- git
-- docker
 
 ## Network Stack
 
