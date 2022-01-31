@@ -9,6 +9,8 @@ NWlab 新手任務區
 ### Makefile
 - [跟我一起寫Makefile](https://seisman.github.io/how-to-write-makefile/)
 
+### CMake
+- [CMake 入門實戰](https://www.hahack.com/codes/cmake/)
 
 ## 語言
 
