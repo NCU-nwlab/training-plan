@@ -14,6 +14,7 @@ NWlab 新手任務區
 - CMake example
     - [CMake example github](https://github.com/ttroy50/cmake-examples) 
     - [CMake example 電子書](https://sfumecjf.github.io/cmake-examples-Chinese/)
+- [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 
 ## 語言
 
